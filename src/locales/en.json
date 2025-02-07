@@ -1,0 +1,19 @@
+{
+    "loadingActions": "Loading stock data...",
+    "title": "Currency Converter",
+    "howToUseTitle": "Guide to using the currency converter",
+    "from": "From:",
+    "to": "To:",
+    "conversionNote1": "• The calculation is for informational purposes only and does not replace Brazilian foreign exchange regulations for specific conversion cases.",
+    "conversionNote2": "• Conversions are available for dates from 02/01/1999.",
+    "conversionNote3": "• For non-business days, the exchange rate of the previous business day is used.",
+    "currency": "Currency",
+    "valueInBRL": "Value in BRL",
+    "loading": "Loading...",
+    "howToUse": "How to use the Currency Converter?",
+    "step1": "1- Enter the value of the currency to be converted;",
+    "step2": "2- Select the currency to convert in the 'From:' field;",
+    "step3": "3- Select the currency to convert to in the 'To:' field;",
+    "step4": "4- The values will be automatically calculated."
+  }
+  

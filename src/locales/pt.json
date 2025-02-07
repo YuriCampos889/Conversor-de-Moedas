@@ -1,0 +1,19 @@
+{
+  "loadingActions": "Carregando dados das ações...",
+  "title": "Conversor de Moedas",
+  "howToUseTitle": "Como usar o Conversor de Moedas?",
+  "from": "De:",
+  "to": "Para:",
+  "conversionNote1": "• O cálculo efetuado tem caráter informativo e não substitui as disposições da norma cambial brasileira para casos específicos de conversão.",
+  "conversionNote2": "• Conversões disponíveis para datas informadas a partir de 01/02/1999.",
+  "conversionNote3": "• Para dias não úteis, assume-se a cotação do dia útil imediatamente anterior.",
+  "currency": "Moeda",
+  "valueInBRL": "Valor em BRL",
+  "loading": "Carregando...",
+  "howToUse": "Como utilizar o Conversor de Moedas?",
+  "step1": "1- Informe o valor da moeda a ser convertida;",
+  "step2": "2- Selecione a moeda a ser convertida no campo 'De:'",
+  "step3": "3- Selecione a moeda para a qual você quer converter no campo 'Para:'",
+  "step4": "4- Os valores serão automaticamente calculados.",
+  "changeLanguage": "Mudar Idioma"
+}
